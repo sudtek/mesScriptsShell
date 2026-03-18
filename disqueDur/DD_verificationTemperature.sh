@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Script : DD_monitorTemp.sh
-# Usage  : ./DD_monitorTemp.sh sda 
+# Script : DD_verificationTemperature.sh
+# Usage  : ./DD_verificationTemperature.sh sda 
 
 
 # 11 mars 2026 yannick SUDRIE
