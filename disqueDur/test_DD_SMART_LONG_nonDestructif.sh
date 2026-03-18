@@ -8,7 +8,7 @@
 #
 # Script non destructif pour les données pour tester un disque dur.
 # Idéal pour tester un disque neuf avant de créer une partition. 
-# Attention un dsique dur de taille 24T requier environ 30 heures pour réalisé 100% du test via un interface SATA qui débite à 200Mb/s .. 250Mbs
+# Attention un disque dur de taille 24T requier environ 30 heures pour réalisé 100% du test via un interface SATA qui débite à 200Mb/s .. 250Mbs
 
 
 # Couleurs pour l'affichage
